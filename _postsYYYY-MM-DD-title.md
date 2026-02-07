@@ -1,4 +1,4 @@
 ---
-title: Doyle and his Food
+title: "Welcome to my blog"
 date: 2026-01-07
 ---
